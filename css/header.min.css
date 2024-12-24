@@ -379,7 +379,7 @@ a.btn_li,
 a.btn_min {
     -webkit-box-shadow: 0 3px 3px #111;
     box-shadow: 0 3px 3px #111;
-    background: url(img/bg_copper_min.jpg) center no-repeat #C8735C;
+    background: url(../img/bg_copper_min.jpg) center no-repeat #C8735C;
     background-size: auto 50px;
     border-bottom: solid 1px #222;
     border-top: solid 1px #bbb;
@@ -458,8 +458,8 @@ a.btn_li i.fa {
 }
 
 .dbi {
-    -webkit-border-image: url(img/border-image-rivets_min.png) 15 round round;
-    border-image: url(img/border-image-rivets_min.png) 15 round round
+    -webkit-border-image: url(../img/border-image-rivets_min.png) 15 round round;
+    border-image: url(../img/border-image-rivets_min.png) 15 round round
 }
 
 .old_text {
@@ -476,7 +476,7 @@ a.btn_li i.fa {
 }
 
 .mnu_left {
-    background: url(img/bg-copper_min.jpg) center no-repeat #C8735C;
+    background: url(../img/bg-copper_min.jpg) center no-repeat #C8735C;
     background-size: cover;
     -webkit-border-bottom-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -496,8 +496,8 @@ a.btn_li i.fa {
 }
 
 .mnu_left::before {
-    -webkit-border-image: url(img/border-image-rivets_min.png) 15/15px round round;
-    border-image: url(img/border-image-rivets_min.png) 15/15px round round;
+    -webkit-border-image: url(../img/border-image-rivets_min.png) 15/15px round round;
+    border-image: url(../img/border-image-rivets_min.png) 15/15px round round;
     bottom: 2px;
     left: 2px;
     position: absolute;
@@ -541,7 +541,7 @@ a.btn_li i.fa {
 a.logo {
     -webkit-box-shadow: 0 3px 3px #111;
     box-shadow: 0 3px 3px #111;
-    background: url(img/28p8cn_min.jpg) no-repeat #eddfb8;
+    background: url(../img/28p8cn_min.jpg) no-repeat #eddfb8;
     background-size: cover;
     -webkit-border-radius: 4px;
     border-radius: 4px;
@@ -561,8 +561,8 @@ a.logo:hover {
 }
 
 a.logo::before {
-    -webkit-border-image: url(img/border-image-bolt4_min.png) 15 round round;
-    border-image: url(img/border-image-bolt4_min.png) 15 round round;
+    -webkit-border-image: url(../img/border-image-bolt4_min.png) 15 round round;
+    border-image: url(../img/border-image-bolt4_min.png) 15 round round;
     border-width: 15px;
     bottom: 3px;
     left: 3px;
@@ -593,8 +593,8 @@ a.logo::before {
 
 .big-background_wrap::before,
 .s_souvenirs::before {
-    -webkit-border-image: url(img/border-image-rivets_min.png) 15 round round;
-    border-image: url(img/border-image-rivets_min.png) 15 round round;
+    -webkit-border-image: url(../img/border-image-rivets_min.png) 15 round round;
+    border-image: url(../img/border-image-rivets_min.png) 15 round round;
     content: ''
 }
 
@@ -607,7 +607,7 @@ a.logo::before {
 }
 
 .big-background_wrap {
-    background: url(img/bg-section-copper_min.jpg) center no-repeat #222;
+    background: url(../img/bg-section-copper_min.jpg) center no-repeat #222;
     background-size: cover;
     border-bottom: solid 2px #222;
     min-height: 100%;
@@ -640,7 +640,7 @@ a.logo::before {
 .big_background {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: url(img/bg.jpg) center no-repeat #222;
+    background: url(../img/bg.jpg) center no-repeat #222;
     background-size: cover;
     left: 43px;
     position: absolute;
@@ -674,7 +674,7 @@ a.logo::before {
 .big-background_default_image {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: url(img/bg.jpg) center no-repeat #222;
+    background: url(../img/bg.jpg) center no-repeat #222;
     background-size: cover;
     left: 43px;
     position: absolute;
@@ -682,7 +682,7 @@ a.logo::before {
 }
 
 .s_souvenirs {
-    background: url(img/bg-section-copper_min.jpg) top center repeat-y #222;
+    background: url(../img/bg-section-copper_min.jpg) top center repeat-y #222;
     background-size: 100%;
     min-height: 100%;
     position: relative
